@@ -3,21 +3,21 @@
     "username": "root",
     "password": "",
     "database": "burgers_db",
-    "host": "127.0.0.1",
+    "host": "localhost",
     "dialect": "mysql"
   },
   "test": {
     "username": "root",
     "password": "",
-    "database": "burgers_db",
+    "database": "database_test",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
+    "username": "",
     "password": "",
-    "database": "burgers_db",
-    "host": "127.0.0.1",
+    "database": "",
+    "host": "",
     "dialect": "mysql"
   }
 }

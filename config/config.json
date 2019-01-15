@@ -14,9 +14,9 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "",
+    "username": "root",
     "password": "",
-    "database": "",
+    "database": "burgers_db",
     "host": "",
     "dialect": "mysql"
   }

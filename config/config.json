@@ -14,10 +14,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": "",
-    "database": "burgers_db",
-    "host": "",
+    "username": "b726523cb9349f",
+    "password": "b324e929",
+    "database": "heroku_0a55beb82852e9c",
+    "host": "us-cdbr-iron-east-01.cleardb.net",
     "dialect": "mysql"
   }
 }
